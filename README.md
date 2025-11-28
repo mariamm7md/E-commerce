@@ -78,7 +78,7 @@ Three primary customer personas identified:
 Team **Team 24** who contributed to this project:
 
 - Shimaa Mohamed — [LinkedIn](https://www.linkedin.com)  
-- Marim Mohamed — [LinkedIn](https://www.linkedin.com/in/marim-mohamed)  
+- Marim Mohamed — [LinkedIn](www.linkedin.com/in/mariam-mohamed𓂆-33a3a0245)  
 - Ibrahim — [LinkedIn](https://www.linkedin.com/in/ibrahim)  
 - Ahmed Sultan — [LinkedIn](https://www.linkedin.com/in/ahmed-sultan)  
 - Ahmed Ali — [LinkedIn](https://www.linkedin.com/in/ahmed-ali)  
